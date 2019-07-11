@@ -1,4 +1,4 @@
-/images/dht-photo.JPG
+![A DHT](/images/dht-photo.JPG)
 
 # Project 2: The digital humidity-temperature sensor
 
@@ -22,9 +22,9 @@ Notice how I was able to use the example code to figure out what I needed to inc
 
 Here is our circuit diagram.
 
-/images/proj2-schem.svg
-/images/proj2-bb.svg
-/images/proj2-photo.JPG
+![Circuit schematic](/images/proj2-schem.svg)
+![Breadboard diagram](/images/proj2-bb.svg)
+![Photo of breadboard](/images/proj2-photo.JPG)
 
 As you can see, it is much simpler than the analogue sensor circuit from the previous project. The code is also shorter; we don't have to design functions for reading the DHT as the libraries already give us some!
 

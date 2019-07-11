@@ -14,7 +14,7 @@ First, I will tell the story of the thermistor: what it does, how we can use it,
 
 The thermistor is a resistor whose resistance changes with temperature. This simple property makes it an effective, durable, and cheap temperature sensor.
 
-/images/therm-photo2.JPG
+![A thermistor](/images/therm-photo2.JPG)
 
 Thermistors come in two types:
 

@@ -1,4 +1,4 @@
-/images/therm-photo.JPG
+![A thermistor](/images/therm-photo.JPG)
 
 # Analogue Sensors: The Thermistor
 
@@ -29,7 +29,7 @@ Using the thermistor to sense temperature is a three-step process. First, we rea
 
 Here is the schematic for this circuit:
 
-/images/proj1-schem.svg
+![Circuit schematic](/images/proj1-schem.svg)
 
 A few points of note:
 
@@ -91,14 +91,14 @@ where T is the temperature, R is the thermistor resistance, and A, B, and C are 
 
 ## Building the circuit
 
-/images/proj1-photo.JPG
+![Photo of breadboard](/images/proj1-photo.JPG)
 
 Let's get cracking.
 
 Here is the circuit diagram for this project:
 
-/images/proj1-schem.svg
-/images/proj1-bb.svg
+![Circuit schematic](/images/proj1-schem.svg)
+![Breadboard diagram](/images/proj1-bb.svg)
 
 Go ahead and build the circuit. Then, open `proj1-thermistor.ino` and upload the program to your Arduino.
 
@@ -106,7 +106,7 @@ When the program is finished uploading, click the magnifying glass icon at the t
 
 The video below walks through uploading the program to the Arduino.
 
-<Arduino IDE video !!!>
+<!!! Arduino IDE video>
 
 ## The code
 

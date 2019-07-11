@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Circuit Diagram, cdlibrary.dll 1.0.0.0 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="540" height="360" xmlns="http://www.w3.org/2000/svg">
+	<line x1="200" y1="240" x2="220" y2="240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="220" y1="180" x2="220" y2="240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="220" y1="180" x2="400" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="330" y1="330" x2="370" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="200" x2="370" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="200" x2="400" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="20" y1="160" x2="70" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="20" y1="30" x2="20" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="20" y1="30" x2="370" y2="30" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="30" x2="370" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="370" y1="190" x2="400" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="460" y="160" style="font-family:Arial;font-size:11px;text-anchor:middle" dy=".3em">DHT</text>
+	<rect x="410" y="170" width="100" height="40" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="400" y1="180" x2="410" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="414" y="180" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">PIN 1</text>
+	<line x1="400" y1="190" x2="410" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="414" y="190" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">PIN 2</text>
+	<line x1="400" y1="200" x2="410" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="414" y="200" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">PIN 3</text>
+	<line x1="30" y1="180" x2="70" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="30" y1="180" x2="30" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="30" y1="330" x2="330" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="230" y1="200" x2="330" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="230" y1="200" x2="230" y2="300" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="50" y1="300" x2="230" y2="300" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="50" y1="260" x2="50" y2="300" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="50" y1="260" x2="70" y2="260" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="40" y1="150" x2="70" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="40" y1="50" x2="40" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="40" y1="50" x2="240" y2="50" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="240" y1="50" x2="240" y2="100" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="200" y1="100" x2="330" y2="100" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="330" y1="190" x2="330" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="330" y1="300" x2="330" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="330" y1="200" x2="330" y2="230" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="330" y1="270" x2="330" y2="300" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 330,230 L 330,232 L 323,235 L 337,241 L 323,247 L 337,253 L 323,259 L 337,265 L 330,268 L 330,270" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="305" y="250" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">Thermistor</text>
+	<path d="M 330,250 M 313,236 L 313,249 L 347,263" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="330" y1="100" x2="330" y2="125" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="330" y1="165" x2="330" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 330,125 L 330,127 L 323,130 L 337,136 L 323,142 L 337,148 L 323,154 L 337,160 L 330,163 L 330,165" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="316" y="145" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">10 kΩ</text>
+	<rect x="75" y="75" width="120" height="195" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="111" y="105" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">ARDUINO</text>
+	<text x="118" y="115" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">UNO r3</text>
+	<line x1="70" y1="130" x2="75" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="140" x2="75" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="150" x2="75" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="160" x2="75" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="170" x2="75" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="180" x2="75" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="190" x2="75" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="210" x2="75" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="220" x2="75" y2="220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="230" x2="75" y2="230" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="240" x2="75" y2="240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="250" x2="75" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="70" y1="260" x2="75" y2="260" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="100" x2="200" y2="100" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="110" x2="200" y2="110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="120" x2="200" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="130" x2="200" y2="130" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="140" x2="200" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="150" x2="200" y2="150" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="160" x2="200" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="170" x2="200" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="190" x2="200" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="200" x2="200" y2="200" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="210" x2="200" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="220" x2="200" y2="220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="230" x2="200" y2="230" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="240" x2="200" y2="240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="250" x2="200" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="195" y1="260" x2="200" y2="260" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="79" y="130" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">IOREF</text>
+	<text x="79" y="140" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">RESET</text>
+	<text x="79" y="150" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">3.3V</text>
+	<text x="79" y="160" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">5V</text>
+	<text x="79" y="170" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GND</text>
+	<text x="79" y="180" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GND</text>
+	<text x="79" y="190" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">Vin</text>
+	<text x="79" y="210" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">A0</text>
+	<text x="79" y="220" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">A1</text>
+	<text x="79" y="230" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">A2</text>
+	<text x="79" y="240" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">A3</text>
+	<text x="79" y="250" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">A4</text>
+	<text x="79" y="260" style="font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">A5</text>
+	<text x="191" y="100" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">AREF</text>
+	<text x="191" y="110" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GND</text>
+	<text x="191" y="120" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">D13</text>
+	<text x="191" y="130" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">D12</text>
+	<text x="191" y="140" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">PWM D11</text>
+	<text x="191" y="150" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">PWM D10</text>
+	<text x="191" y="160" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">PWM   D9</text>
+	<text x="191" y="170" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">D8</text>
+	<text x="191" y="190" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">D7</text>
+	<text x="191" y="200" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">PWM   D6</text>
+	<text x="191" y="210" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">PWM   D5</text>
+	<text x="191" y="220" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">D4</text>
+	<text x="191" y="230" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">PWM   D3</text>
+	<text x="191" y="240" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">D2</text>
+	<text x="191" y="250" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">TX   D1</text>
+	<text x="191" y="260" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">RX   D0</text>
+	<path d="M 135,90 M 135,90 c 2,9 15,9 15,0 c 0,-9 -13,-9 -15,0" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 135,90 M 135,90 c -2,-9 -15,-9 -15,0 c 0,9 13,9 15,0" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="141" y1="90" x2="145" y2="90" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="143" y1="92" x2="143" y2="88" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="129" y1="90" x2="125" y2="90" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="330" cy="330" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="330" cy="200" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="240" cy="100" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+</svg>

@@ -22,7 +22,7 @@ Let's build the circuit! Here is our circuit diagram.
 
 As you can see, the wiring is much simpler than the analogue sensor circuit from the previous project.
 
-The video below shows how to find and install a library. The libraries we will be using are called the Adafruit Unified Sensor Library and the Adafruit DHT Library.
+The video below shows how to find and install libraries for our sensor. We will use the Adafruit Unified Sensor library and the Adafruit DHT library.
 
 <!!! libraries video>
 

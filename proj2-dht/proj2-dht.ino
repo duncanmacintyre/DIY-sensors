@@ -3,7 +3,6 @@
 // print sensor readings in this format:
 // <DHT temp °C> <DHT % humidity>
 
-#include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include <DHT_U.h>
 

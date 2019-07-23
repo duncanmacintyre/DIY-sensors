@@ -299,7 +299,7 @@ Pandas adds excellent table functionality to Python. It works as a wrapper for N
 
 Pandas includes [a very useful function](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html) for opening delimitated text files (like our output file).
 
-An added bonus is that, in my experience, Pandas does a much better job than Excel at automatically parsing times. If you're using Pandas, I recommend changing the time stamp format to have a hyphen instead of a space between the date and time so as to present these as one field.
+An added bonus is that, in my experience, Pandas does a much better job than Excel at automatically parsing times. If you're using Pandas, I recommend changing the time stamp format to have a hyphen instead of a space between the date and time so as to present these as one field. (Excel is not sophisticated enough to recognize that times and dates go together.)
 
 ## Further reading
 

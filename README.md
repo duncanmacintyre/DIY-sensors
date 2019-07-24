@@ -29,6 +29,8 @@ To open a section, click on the folder of the appropriate name at the top of thi
 | Project 2: The digital humidity-temperature sensor | Digital sensors, installing libraries |
 | Project 3: Using multiple sensors | Adapting code, using multiple power buses |
 
----
+&nbsp;
+
+&nbsp;
 
 ![Photo of sensors on table](images/sensors-ikb2.JPG)

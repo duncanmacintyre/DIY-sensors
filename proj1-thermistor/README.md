@@ -1,5 +1,3 @@
-![A thermistor](images/therm-photo.JPG)
-
 # Analogue Sensors: The Thermistor
 
 This tutorial will introduce you to using analogue sensors. We'll also look at basic sensor code structure, the Arduino IDE, and how to view sensor data from your Arduino on your computer.
@@ -14,7 +12,7 @@ First, I will tell the story of the thermistor: what it does, how we can use it,
 
 The thermistor is a resistor whose resistance changes with temperature. This simple property makes it an effective, durable, and cheap temperature sensor.
 
-![A thermistor](images/therm-photo2.JPG)
+![A thermistor](images/therm-photo.JPG)
 
 Thermistors come in two types:
 
@@ -89,9 +87,11 @@ $$\frac{1}{T} = A + B ln(R) + C ln(R)^3$$
 
 where T is the temperature, R is the thermistor resistance, and A, B, and C are constants. For equations like this, you may be able to find values for your constants on the datasheet for the sensor. Google around a bit. For our code, we will use values from an ELEGOO tutorial using this sensor. I'm not sure where they got them, but they seem to work fairly well.
 
-## Building the circuit
+---
 
 ![Photo of breadboard](images/proj1-photo.JPG)
+
+## Building the circuit
 
 Let's get cracking.
 

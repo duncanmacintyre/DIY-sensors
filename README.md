@@ -18,8 +18,6 @@ If you're new to breadboarding, I would highly recommend watching the video belo
 
 This guide includes three mini-projects, plus an extra, helpful tutorial. I highly recommend starting with Project 1. It introduces analogue sensors, along the way discussing many concepts that you will find useful in all sensor projects.
 
-![Some sensors](images/sensors-ikb2.JPG)
-
 ## Table of Contents
 
 To open a section, click on the folder of the appropriate name at the top of this page.
@@ -31,4 +29,4 @@ To open a section, click on the folder of the appropriate name at the top of thi
 | Project 2: The digital humidity-temperature sensor | Digital sensors, installing libraries |
 | Project 3: Using multiple sensors | Adapting code, using multiple power buses |
 
-![Photo of sensors on table](images/big-photo.JPG)
+![Photo of sensors on table](images/sensors-ikb2.JPG)

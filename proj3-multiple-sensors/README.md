@@ -1,8 +1,10 @@
-![Photo of breadboard](images/proj3-photo2.JPG)
-
 # Project 3: Multiple sensors
 
 Here, we will combine our thermistor and DHT circuits together and get them both working at the same time.
+
+---
+
+<img alt="Photo of breadboard" width="40%" src="images/proj3-photo2.JPG">
 
 ## Building the circuit
 

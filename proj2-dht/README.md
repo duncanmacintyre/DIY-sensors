@@ -1,8 +1,8 @@
-![A DHT](images/dht-photo.JPG)
-
 # Project 2: The digital humidity-temperature sensor
 
 The digital humidity-temperature sensor (DHT) is an integrated circuit—that is, it contains several components packaged together into a nice, little, mini circuit for our convenience. Among other things, it contains
+
+<img align="right" alt="A DHT" width="30%" src="images/dht-photo.JPG">
 
 * A thermistor to measure temperature,
 * A relative humidity sensor, and
@@ -12,13 +12,16 @@ We communicate with the DHT's microcontroller through a digital signal, a series
 
 Rather than figuring out how to communicate with the DHT ourself, we will load a *library* onto our Arduino to handle this for us. A library is a bundle of code that someone else develops that we can then load and make reference to in our own programs. Most often, if you're using a digital sensor, you can find a library to help you communicate with it.
 
+---
+
+<img alt="Photo of breadboard" width="40%" src="images/proj2-photo.JPG">
+
 ## Building the circuit
 
 Let's build the circuit! Here is our circuit diagram.
 
 ![Circuit schematic](images/proj2-schem.svg)
 ![Breadboard diagram](images/proj2-bb.svg)
-![Photo of breadboard](images/proj2-photo.JPG)
 
 As you can see, the wiring is much simpler than the analogue sensor circuit from the previous project.
 

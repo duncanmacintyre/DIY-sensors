@@ -1,4 +1,4 @@
-![A sensor kit](images/sensor-kit.JPG)
+<img alt="A sensor kit" width="80%" src="images/sensor-kit.JPG">
 
 # Not-yet Official Science One Guide to Making DIY Sensors
 
@@ -33,4 +33,4 @@ To open a section, click on the folder of the appropriate name at the top of thi
 
 &nbsp;
 
-<img width="50%" src="images/sensors-ikb2.JPG">
+<img alt="Photo of sensors on table" width="40%" src="images/sensors-ikb2.JPG">

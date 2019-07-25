@@ -29,6 +29,8 @@ The video below shows how to find and install libraries for our sensor. We will 
 
 <!!! libraries video>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S3-cJ5KJq7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Notice how I was able to use the example code to figure out what I needed to include in my own program. The code is shorter than for the analogue circuit; we don't have to design functions for reading the DHT as the libraries already give us some!
 
 Go ahead and load the `proj2-dht.ino` code onto your Arduino. You should be able to see temperature and humidity readings in the serial monitor.

@@ -6,7 +6,7 @@ Welcome to the official Science One guide to making DIY sensors!
 
 To get started, check out the video below.
 
-[![Introduction to making sensors](https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2FNQs8Yco8RFA)](https://youtu.be/NQs8Yco8RFA "Introduction to making sensors")
+[<img alt="Introduction to making sensors" width="30%" src="https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2FNQs8Yco8RFA">](https://youtu.be/NQs8Yco8RFA "Introduction to making sensors")
 
 The Arduino can act as a translator between sensors and our computer. Neat!
 
@@ -14,7 +14,7 @@ We will use breadboards to build our circuits. These nifty devices allow us to e
 
 If you're new to breadboarding, I would highly recommend watching the video below. It really breaks down breadboards in a way that is not only insightful but fascinating.
 
-[![How to Use a Breadboard](https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2F6WReFkfrUIk)](https://youtu.be/6WReFkfrUIk "How to Use a Breadboard")
+[<img alt="How to Use a Breadboard" width="30%" src="https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2F6WReFkfrUIk">](https://youtu.be/6WReFkfrUIk "How to Use a Breadboard")
 
 This guide includes three mini-projects, plus an extra, helpful tutorial. I highly recommend starting with Project 1. It introduces analogue sensors, along the way discussing many concepts that you will find useful in all sensor projects.
 

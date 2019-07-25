@@ -6,7 +6,7 @@ The digital humidity-temperature sensor (DHT) is an integrated circuit—that is
 * A relative humidity sensor, and
 * A microcontroller (small computer) to read these on our behalf.
 
-![A DHT](images/dht-photo.JPG)
+<img align="right" alt="A DHT" width="30%" src="images/dht-photo.JPG">
 
 We communicate with the DHT's microcontroller through a digital signal, a series of 5 V and 0 V blips. Here, there is nothing analogue for us to do; the microcontroller handles all the ADC and temperature-conversion stuff for us.
 
@@ -14,7 +14,7 @@ Rather than figuring out how to communicate with the DHT ourself, we will load a
 
 ---
 
-![Photo of breadboard](images/proj2-photo.JPG)
+<img alt="Photo of breadboard" width="40%" src="images/proj2-photo.JPG">
 
 ## Building the circuit
 

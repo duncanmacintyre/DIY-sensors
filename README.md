@@ -33,4 +33,4 @@ To open a section, click on the folder of the appropriate name at the top of thi
 
 &nbsp;
 
-<width="50%" src="images/sensors-ikb2.JPG">
+<img width="50%" src="images/sensors-ikb2.JPG">

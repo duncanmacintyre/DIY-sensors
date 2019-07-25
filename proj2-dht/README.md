@@ -29,7 +29,7 @@ The video below shows how to find and install libraries for our sensor. We will 
 
 <!!! libraries video>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S3-cJ5KJq7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![How to find, install, and use Arduino libraries](https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2FS3-cJ5KJq7o)](https://youtu.be/S3-cJ5KJq7o "How to find, install, and use Arduino libraries")
 
 Notice how I was able to use the example code to figure out what I needed to include in my own program. The code is shorter than for the analogue circuit; we don't have to design functions for reading the DHT as the libraries already give us some!
 

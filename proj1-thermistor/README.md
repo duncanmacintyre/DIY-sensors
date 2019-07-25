@@ -106,7 +106,7 @@ When the program is finished uploading, click the magnifying glass icon at the t
 
 The video below walks through uploading the program to the Arduino.
 
-<!!! Arduino IDE video>
+[![The Arduino IDE](https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2FSyjgpN5XtA4)](https://youtu.be/SyjgpN5XtA4 "The Arduino IDE")
 
 ## The code
 

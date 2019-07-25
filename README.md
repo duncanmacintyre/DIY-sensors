@@ -4,7 +4,7 @@
 
 Welcome to the official Science One guide to making DIY sensors!
 
-To get started, check out the video below.
+To get started, check out this video.
 
 [<img alt="Introduction to making sensors" width="30%" src="https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2FNQs8Yco8RFA">](https://youtu.be/NQs8Yco8RFA "Introduction to making sensors")
 

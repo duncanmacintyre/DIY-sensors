@@ -6,7 +6,7 @@ Welcome to the official Science One guide to making DIY sensors!
 
 To get started, check out the video below.
 
-<!!! intro video>
+[![Introduction to making sensors](https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2FNQs8Yco8RFA)](https://youtu.be/NQs8Yco8RFA "Introduction to making sensors")
 
 The Arduino can act as a translator between sensors and our computer. Neat!
 

@@ -12,7 +12,7 @@ First, I will tell the story of the thermistor: what it does, how we can use it,
 
 The thermistor is a resistor whose resistance changes with temperature. This simple property makes it an effective, durable, and cheap temperature sensor.
 
-![A thermistor](images/therm-photo.JPG)
+<img align="right" alt="A thermistor" width="30%" src="images/therm-photo.JPG">
 
 Thermistors come in two types:
 
@@ -89,7 +89,7 @@ where T is the temperature, R is the thermistor resistance, and A, B, and C are 
 
 ---
 
-![Photo of breadboard](images/proj1-photo.JPG)
+<img alt="Photo of breadboard" width="40%" src="images/proj1-photo.JPG">
 
 ## Building the circuit
 

@@ -1,8 +1,8 @@
 # Project 2: The digital humidity-temperature sensor
 
-<img align="right" alt="A DHT" width="30%" src="images/dht-photo.JPG">
-
 The digital humidity-temperature sensor (DHT) is an integrated circuit—that is, it contains several components packaged together into a nice, little, mini circuit for our convenience. Among other things, it contains
+
+<img align="right" alt="A DHT" width="30%" src="images/dht-photo.JPG">
 
 * A thermistor to measure temperature,
 * A relative humidity sensor, and

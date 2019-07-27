@@ -27,7 +27,7 @@ As you can see, the wiring is much simpler than the analogue sensor circuit from
 
 The video below shows how to find and install libraries for our sensor. We will use the Adafruit Unified Sensor library and the Adafruit DHT library.
 
-[<img width="30%" alt="How to find, install, and use Arduino libraries" src="https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2F0Aese-3Xu0Q">](https://youtu.be/0Aese-3Xu0Q "How to find, install, and use Arduino libraries")
+<!!! libraries video>
 
 Notice how I was able to use the example code to figure out what I needed to include in my own program. The code is shorter than for the analogue circuit; we don't have to design functions for reading the DHT as the libraries already give us some!
 

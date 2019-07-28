@@ -264,7 +264,7 @@ The table below describes the different parts of this command.
 
 Now that we have a nice output file, we can undertake all sorts of data processing endeavours. For many people, this begins with importing the file into Excel.
 
-<!!! Excel video>
+[<img alt="Importing output data to Excel" width="30%" src="https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2F-MQGSKWQ-dI">](https://youtu.be/-MQGSKWQ-dI "Importing output data to Excel")
 
 1. Create a new blank workbook in Excel.
 2. Go to File > Import to begin the import process. (This is where I found the import tool on macOS. It may be in a different location in other operating systems.)

@@ -41,9 +41,9 @@ In the digital world, things are either on or off, `HIGH` or `LOW`, 5 V or 0 V. 
 
 Thus, the resistance across the thermistor is given by
 
-<p align="center"><img src="/proj1-thermistor/tex/a90ee0679a6c7d8df6e6ca0a34411040.svg?invert_in_darkmode&sanitize=true" align=middle width=182.8122021pt height=33.62942055pt/></p>
+$$R_{thermistor} = V_{CC} \cdot \frac{V_{read}}{1023}$$
 
-where <img src="/proj1-thermistor/tex/63eb65b785f79a992f866b3f2ae66ec1.svg?invert_in_darkmode&sanitize=true" align=middle width=36.25685579999999pt height=22.465723500000017pt/> is the number from 0 to 1023 that we get for our analogue reading and <img src="/proj1-thermistor/tex/516a2805cc41de3e691585b03ef0fd14.svg?invert_in_darkmode&sanitize=true" align=middle width=30.05803844999999pt height=22.465723500000017pt/> is the power supply voltage (for us, 3.3 V).
+where $V_{read}$ is the number from 0 to 1023 that we get for our analogue reading and $V_{CC}$ is the power supply voltage (for us, 3.3 V).
 
 This process is known as [Analogue to Digital Conversion (ADC)](https://en.m.wikipedia.org/wiki/Analog-to-digital_converter).
 
@@ -53,37 +53,37 @@ This process is known as [Analogue to Digital Conversion (ADC)](https://en.m.wik
 
 We can use [Ohm's law](https://en.m.wikipedia.org/wiki/Ohm%27s_law) to convert this voltage reading into a resistance. To do this, we will come up with two equations then combine them with the powers of algebra.
 
-To start with, the voltage difference across the thermistor and the resistor must total <img src="/proj1-thermistor/tex/516a2805cc41de3e691585b03ef0fd14.svg?invert_in_darkmode&sanitize=true" align=middle width=30.05803844999999pt height=22.465723500000017pt/>, the voltage supplied by the power supply.
+To start with, the voltage difference across the thermistor and the resistor must total $V_{CC}$, the voltage supplied by the power supply.
 
-<p align="center"><img src="/proj1-thermistor/tex/109dd43860ea67a9331ca822b6b41f94.svg?invert_in_darkmode&sanitize=true" align=middle width=206.34240164999997pt height=13.698590399999999pt/></p>
+$$V_{thermistor} + V_{resistor} = V_{CC}$$
 
 This is our first equation.
 
 Next, we know that the current through the thermistor is the same as the current through the resistor.
 
-<p align="center"><img src="/proj1-thermistor/tex/b76f8681670bfb5dd84d560e29ea108b.svg?invert_in_darkmode&sanitize=true" align=middle width=150.64541415pt height=13.698590399999999pt/></p>
+$$I_{thermistor} = I_{resistor}$$
 
-Ohm's law tells us that <img src="/proj1-thermistor/tex/b5faf25b5ac8fe18c2b0e54ada4db22a.svg?invert_in_darkmode&sanitize=true" align=middle width=53.799008999999984pt height=28.670654099999997pt/>, where <img src="/proj1-thermistor/tex/21fd4e8eecd6bdf1a4d3d6bd1fb8d733.svg?invert_in_darkmode&sanitize=true" align=middle width=8.515988249999989pt height=22.465723500000017pt/> is the current through a circuit component, <img src="/proj1-thermistor/tex/1eb263a1361d11fbefc8fb9d6e6af61e.svg?invert_in_darkmode&sanitize=true" align=middle width=26.94070829999999pt height=22.465723500000017pt/> is the voltage change across the component, and <img src="/proj1-thermistor/tex/1e438235ef9ec72fc51ac5025516017c.svg?invert_in_darkmode&sanitize=true" align=middle width=12.60847334999999pt height=22.465723500000017pt/> is the component's resistance. So, we get
+Ohm's law tells us that $I = \frac{\Delta V}{R}$, where $I$ is the current through a circuit component, $\Delta V$ is the voltage change across the component, and $R$ is the component's resistance. So, we get
 
-<p align="center"><img src="/proj1-thermistor/tex/c9cd0270c89620b3676d7cf53d247428.svg?invert_in_darkmode&sanitize=true" align=middle width=172.46203094999998pt height=36.09514755pt/></p>
+$$\frac{V_{thermistor}}{R_{thermistor}} = \frac{V_{resistor}}{R_{resistor}}.$$
 
 This is our second equation.
 
 Putting these two equations together, we reach
 
-<p align="center"><img src="/proj1-thermistor/tex/d251cf4b0b786c01404a746812743ce7.svg?invert_in_darkmode&sanitize=true" align=middle width=209.36167394999998pt height=42.569933999999996pt/></p>
+$$R_{thermistor} = \frac{R_{resistor}}{\frac{V_{CC}}{V_{thermistor}} - 1}.$$
 
 We're almost there! We just need one finishing touch. Adding our ADC equation from the previous section, we get
 
-<p align="center"><img src="/proj1-thermistor/tex/5541537b6c431ce880e9b027328a6475.svg?invert_in_darkmode&sanitize=true" align=middle width=167.63408145pt height=41.84588925pt/></p>
+$$R_{thermistor} = \frac{R_{resistor}}{\frac{1023}{V_{read}} - 1}$$
 
-where <img src="/proj1-thermistor/tex/63eb65b785f79a992f866b3f2ae66ec1.svg?invert_in_darkmode&sanitize=true" align=middle width=36.25685579999999pt height=22.465723500000017pt/> is the natural number from 0 to 1023 that we actually read. This is the equation we will use in our code.
+where $V_{read}$ is the natural number from 0 to 1023 that we actually read. This is the equation we will use in our code.
 
 #### Converting resistance to temperature
 
 We can use the [Steinhart-Hart equation](https://en.m.wikipedia.org/wiki/Steinhart–Hart_equation) to convert our resistances into temperatures. This equation takes the form
 
-<p align="center"><img src="/proj1-thermistor/tex/52c83b8426ad27d3f3ed0d0d926c26be.svg?invert_in_darkmode&sanitize=true" align=middle width=202.03953495pt height=32.990165999999995pt/></p>
+$$\frac{1}{T} = A + B ln(R) + C ln(R)^3$$
 
 where T is the temperature, R is the thermistor resistance, and A, B, and C are constants. For equations like this, you may be able to find values for your constants on the datasheet for the sensor. Google around a bit. For our code, we will use values from an ELEGOO tutorial using this sensor. I'm not sure where they got them, but they seem to work fairly well.
 

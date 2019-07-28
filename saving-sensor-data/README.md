@@ -1,5 +1,18 @@
 # Saving sensor data
 
+*Table of contents*
+  * [Monitoring the serial monitor](#monitoring-the-serial-monitor)
+    * [Saving the data](#saving-the-data)
+    * [Adding a time stamp](#adding-a-time-stamp)
+      * [Installing moreutils](#installing-moreutils)
+      * [Using ts](#using-ts)
+  * [Opening in Excel](#opening-in-excel)
+  * [Caveats and improvements](#caveats-and-improvements)
+    * [Timestamp precision](#timestamp-precision)
+    * [Using Python to watch the serial monitor](#using-python-to-watch-the-serial-monitor)
+    * [Using NumPy and Pandas for data processing](#using-numpy-and-pandas-for-data-processing)
+  * [Further reading](#further-reading)
+
 Now, our sensors are sensing, the serial monitor monitoring, and our Arduino flashing along happily. This is good.
 
 The second half of making DIY sensors will take place on our computer. Our task will be to take the stream of data from the serial monitor and turn it into something more useful.

@@ -1,5 +1,16 @@
 # Analogue Sensors: The Thermistor
 
+*Table of contents*
+  * [Theory](#theory)
+    * [Thermistors](#thermistors)
+    * [How we take readings](#how-we-take-readings)
+      * [Analogue to digital conversion: How to read a voltage](#analogue-to-digital-conversion-how-to-read-a-voltage)
+      * [Converting from voltage to resistance](#converting-from-voltage-to-resistance)
+      * [Converting resistance to temperature](#converting-resistance-to-temperature)
+  * [Building the circuit](#building-the-circuit)
+  * [The code](#the-code)
+  * [Further reading](#further-reading)
+
 This tutorial will introduce you to using analogue sensors. We'll also look at basic sensor code structure, the Arduino IDE, and how to view sensor data from your Arduino on your computer.
 
 First, I will tell the story of the thermistor: what it does, how we can use it, and why we use it the way we do. If you're eager to get wiring and coding, feel free to jump down to the "Building the circuit" section.

@@ -24,10 +24,10 @@ To open a section, click on the folder of the appropriate name at the top of thi
 
 | Section | Contents |
 |-----|-----|
-| [Project 1: The Thermistor](https://github.com/duncanmacintyre/DIY-sensors/tree/master/proj1-thermistor) | Analogue sensors, ADC, the Arduino IDE, uploading programs, the serial monitor, the three parts of sensor programs |
-| [Saving Sensor Data](https://github.com/duncanmacintyre/DIY-sensors/tree/master/saving-sensor-data) | Saving sensor data from the serial monitor to a file, opening in Excel |
-| [Project 2: The Digital Humidity-Temperature Sensor](https://github.com/duncanmacintyre/DIY-sensors/tree/master/proj2-dht) | Digital sensors, installing libraries |
-| [Project 3: Using Multiple Sensors](https://github.com/duncanmacintyre/DIY-sensors/tree/master/proj3-multiple-sensors) | Adapting code, using multiple power buses |
+| [Project 1: The thermistor](https://github.com/duncanmacintyre/DIY-sensors/tree/master/proj1-thermistor) | Analogue sensors, ADC, the Arduino IDE, uploading programs, the serial monitor, the three parts of sensor programs |
+| [Saving sensor data](https://github.com/duncanmacintyre/DIY-sensors/tree/master/saving-sensor-data) | Saving sensor data from the serial monitor to a file, opening in Excel |
+| [Project 2: The digital humidity-temperature sensor](https://github.com/duncanmacintyre/DIY-sensors/tree/master/proj2-dht) | Digital sensors, installing libraries |
+| [Project 3: Using multiple sensors](https://github.com/duncanmacintyre/DIY-sensors/tree/master/proj3-multiple-sensors) | Adapting code, using multiple power buses |
 
 &nbsp;
 

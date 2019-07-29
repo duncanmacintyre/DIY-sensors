@@ -32,3 +32,5 @@ To open a section, click on the folder of the appropriate name at the top of thi
 &nbsp;
 
 <img alt="Photo of sensors on table" width="40%" src="images/sensors-ikb2.JPG">
+
+*Written and produced by Duncan MacIntyre.*

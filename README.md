@@ -1,8 +1,8 @@
 <img alt="A sensor kit" width="80%" src="images/sensor-kit.JPG">
 
-# Not-yet Official Science One Guide to Making DIY Sensors
+# Making DIY Sensors
 
-Welcome to the official Science One guide to making DIY sensors!
+Welcome to the Making DIY Sensors! Through these tutorials, you will get a chance to try your hand at creating your own data loggers using an Arduino and very simple circuitry.
 
 To get started, check out this video.
 

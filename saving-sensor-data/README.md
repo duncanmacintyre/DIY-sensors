@@ -27,7 +27,7 @@ The Unix philosophy is said to be "everything is a file". Your biology quiz stud
 
 The video below runs through getting data from the serial monitor. It mirrors the written part that comes after; you may wish to use both together.
 
-<!!! serial monitor video>
+[<img width="30%" alt="How to use the command line to save data from the serial monitor" src="https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2FgQ79LmCCwZU">](https://youtu.be/gQ79LmCCwZU "How to use the command line to save data from the serial monitor")
 
 Let's get started! Plug in your Arduino, then open your favourite terminal app (likely Terminal) and type in 
 

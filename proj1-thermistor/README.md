@@ -1,4 +1,4 @@
-# Analogue Sensors: The Thermistor
+# Project 1: Analogue Sensors—The Thermistor
 
 *Table of contents*
   * [Theory](#theory)

@@ -1,4 +1,4 @@
-# Saving sensor data
+# Saving Sensor Data
 
 *Table of contents*
   * [Monitoring the serial monitor](#monitoring-the-serial-monitor)

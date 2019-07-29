@@ -1,4 +1,4 @@
-# Project 3: Multiple sensors
+# Project 3: Multiple Sensors
 
 Here, we will combine our thermistor and DHT circuits together and get them both working at the same time.
 

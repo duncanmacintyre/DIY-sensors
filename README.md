@@ -20,16 +20,14 @@ This guide includes three mini-projects, plus an extra, helpful tutorial. I high
 
 ## Table of Contents
 
-To open a section, click on the folder of the appropriate name at the top of this page.
+To open a section, click on the folder of the appropriate name at the top of this page, or use the links below.
 
 | Section | Contents |
 |-----|-----|
-| Project 1: The thermistor | Analogue sensors, ADC, the Arduino IDE, uploading programs, the serial monitor, the three parts of sensor programs |
-| Saving sensor data | Saving sensor data from the serial monitor to a file, opening in Excel |
-| Project 2: The digital humidity-temperature sensor | Digital sensors, installing libraries |
-| Project 3: Using multiple sensors | Adapting code, using multiple power buses |
-
-&nbsp;
+| [Project 1: The thermistor](https://github.com/duncanmacintyre/DIY-sensors/tree/master/proj1-thermistor) | Analogue sensors, ADC, the Arduino IDE, uploading programs, the serial monitor, the three parts of sensor programs |
+| [Saving sensor data](https://github.com/duncanmacintyre/DIY-sensors/tree/master/saving-sensor-data) | Saving sensor data from the serial monitor to a file, opening in Excel |
+| [Project 2: The digital humidity-temperature sensor](https://github.com/duncanmacintyre/DIY-sensors/tree/master/proj2-dht) | Digital sensors, installing libraries |
+| [Project 3: Using multiple sensors](https://github.com/duncanmacintyre/DIY-sensors/tree/master/proj3-multiple-sensors) | Adapting code, using multiple power buses |
 
 &nbsp;
 
